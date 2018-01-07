@@ -1,1 +1,2 @@
-﻿busy bee mini synthesizer
+busy bee mini synthesizer demo.
+
